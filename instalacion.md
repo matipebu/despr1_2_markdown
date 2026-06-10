@@ -116,7 +116,7 @@ docker-compose up -d
 
 ### 1️⃣ Servicios Básicos
 - [x] Base de datos conectada  
-- [x] Redis funcionando  
+- [ ] Redis funcionando  
 - [x] Servidor web iniciado  
 - [x] SSL configurado  
 

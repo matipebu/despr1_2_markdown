@@ -2,22 +2,18 @@
 
 Un sistema completo para la gestión de centros educativos modernos.
 
----
-
 ## 🎯 **Descripción General**
 
 **CotareloManage** es una plataforma innovadora diseñada para facilitar la administración de instituciones educativas.  
 Combina tecnología avanzada con una interfaz intuitiva para optimizar los procesos académicos y administrativos.
 
----
-
 ## ✨ **Características Principales**
 
-- 👩‍🏫 Gestión de estudiantes y profesorado  
-- 📊 Dashboard interactivo con métricas en tiempo real  
-- 🧮 Sistema de calificaciones automatizado  
-- 💬 Comunicación integrada entre padres, estudiantes y docentes  
-- 📈 Reportes personalizables y análisis estadísticos  
+- **Gestión de estudiantes** y profesorado  
+- Dashboard interactivo con métricas en tiempo real  
+- Sistema de calificaciones automatizado  
+- Comunicación integrada entre padres, estudiantes y docentes  
+- Reportes personalizables y análisis estadísticos  
 
 ---
 
